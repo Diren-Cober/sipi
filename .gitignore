@@ -1,0 +1,15 @@
+
+.vscode
+
+# Unity-generated
+Temp/
+Library/
+
+# IDE-generated
+obj/
+/*.csproj
+/*.sln
+*.unityproj
+
+Logs
+
